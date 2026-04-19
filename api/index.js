@@ -35,8 +35,8 @@ app.use(express.json());
 
 app.use(cookieParser());
 
-server.listen(3000, () => {
-  console.log('Server is running on port 3000!');
+server.listen(process.env.PORT || 3000, () => {
+  console.log('Server is running on port ' + (process.env.PORT || 3000));
 });
 
 app.use('/api/user', userRouter);
