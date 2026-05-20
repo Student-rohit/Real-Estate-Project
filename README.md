@@ -8,7 +8,7 @@ The application allows users to browse, search, and manage property listings wit
 ## 🔗 Live Demo
 
 👉 **Website:**  
-https://real-estate-project-1-mb38.onrender.com/sign-up
+https://real-estate-project-1-mb38.onrender.com
 
 ---
 
@@ -173,7 +173,7 @@ The project is successfully deployed on **Render**.
 
 ## 🌐 Live Project
 
-👉 https://real-estate-project-1-mb38.onrender.com/sign-up
+👉 https://real-estate-project-1-mb38.onrender.com
 
 ---
 
